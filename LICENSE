@@ -1,21 +1,18 @@
-MIT License
+Duplexor SpaceQuad (diplexor 2 m / 70 cm) — licensing
+Copyright (c) 2026 BricoHams (Anatol, EA5KAO)
 
-Copyright (c) 2026 anatolbricoham
+This repository uses different licences for different kinds of files:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Hardware design files (hardware/, fabrication/, enclosure/, BOM/):
+    CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)
+    Full text: LICENSES/CERN-OHL-S-2.0.txt
+Software (scripts/):
+    MIT License (LICENSES/MIT.txt)
+Documentation and images (docs/, README.md):
+    Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+    https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Credits:
+    PCB design shared with the diplexor-2m70cm repository.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Software parts are licensed under the MIT License (full text: LICENSES/MIT.txt).
+If a file carries its own licence header, that header takes precedence.
